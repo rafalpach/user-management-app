@@ -18,6 +18,7 @@
 	</parent>
 
 	<properties>
+		<start-class>com.task.user_management_app.App</start-class>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 
